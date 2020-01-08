@@ -12,12 +12,6 @@ Submitted by: **Alexis Vu & Karla Abad-Torrez**
 * Environment 
   - Executes within shell
   
-* Board Parameters
-  - **M:** amount of rows
-  - **N:** amount of columns
-  - **P:** amount of occupied rows
-  - **Q:** amount of unoccupied rows
-
 * Sensors
   - Agent only knows of opponent's most recent move (represented by Move object)
 
